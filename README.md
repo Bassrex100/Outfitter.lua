@@ -8,4 +8,4 @@ Go To The [Releases Page](https://github.com/Bassrex100/Outfitter.lua/releases) 
 
 Drop The Lua File You Just Downloaded Into "AppData\Roaming\PopstarDevs\2Take1Menu\scripts".
 
-Now With GTA Running & The Menu Injected You Can Start The Script From "[Local > Scripts](https://gta.2take1.menu/features/local/scripts/#management-and-execution)" & Use It At "[Local > Script Features](https://gta.2take1.menu/features/local/scripts/#management-and-execution)".
+Now With GTA Running & Menu Injected You Can Start The Script From "[Local > Scripts](https://gta.2take1.menu/features/local/scripts/#management-and-execution)" & Use It At "[Local > Script Features](https://gta.2take1.menu/features/local/scripts/#management-and-execution)".
