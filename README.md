@@ -7,7 +7,7 @@ Does Everything The Base 2take1 Outfit [Editor](https://gta.2take1.menu/features
 &nbsp;&nbsp;• _Sort Outfits With Custom Folders._  
 &nbsp;&nbsp;• _Save Your Or Another Player's Outfit Including Head/Face Data._  
 &nbsp;&nbsp;• _Automatically Switch To Correct Model When Applying Outfits & Keeps It Even After Dying._
->Outfit Saves Are Only Cross-Compatible With [2Take1's Saved Outfits]() With Outfitter v3.0.0 & Later.  
+>Outfit Saves Are Only Cross-Compatible With [2Take1's Saved Outfits](https://gta.2take1.menu/features/local/outfits/#custom-outfits) With Outfitter v3.0.0 & Later.  
 Any Outfits Saved With Outfitter v2.4.1 Or Older Will Not Work With Newer Versions Of The Script.
 
 ## How To Install & Use
