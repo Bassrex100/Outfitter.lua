@@ -8,6 +8,7 @@ Does Everything The Base 2take1 Outfit [Editor](https://gta.2take1.menu/features
 &nbsp;&nbsp;• _Edit & Apply In Game Wardrobe Slots._  
 &nbsp;&nbsp;• _Prevent Helmet & Parachute Removal._  
 &nbsp;&nbsp;• _Organize Outfits With Custom Folders._  
+&nbsp;&nbsp;• _Navigate To The Outfit List Via [Hotkey](https://gta.2take1.menu/setup/keybinds/#feature-hotkeys)._  
 &nbsp;&nbsp;• _Automatically Switch To Correct Model When Applying Outfits._  
 &nbsp;&nbsp;• _Save Your Or Another Player's Outfit Including Headblend Data._
 >Outfit Saves Are Only Cross-Compatible With [2Take1's Saved Outfits](https://gta.2take1.menu/features/local/outfits/#custom-outfits) With Outfitter.lua v3.0.0 & Later.  
