@@ -1,5 +1,5 @@
 # Outfitter.lua
-This GTA5 script for 2Take1's Lua Engine aims to be a better alternative to the barebones 2Take1 Outfitter.
+This script aims to be a better alternative to the barebones 2Take1 [Outfitter](https://gta.2take1.menu/features/local/outfitter/) & [Outfit Manager](https://gta.2take1.menu/features/local/outfits/).
 
 ## Key Features
 - Freeze outfit. [^1]
