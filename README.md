@@ -1,25 +1,37 @@
 # Outfitter.lua
-GTA5 Script For 2Take1's Lua Engine.  
+This GTA5 script for 2Take1's Lua Engine aims to be a better alternative to the barebones 2Take1 Outfitter.
 
-Does Everything The Base 2take1 Outfit [Editor](https://gta.2take1.menu/features/local/outfitter/)/[Saver](https://gta.2take1.menu/features/local/outfits/) Does But With Some Extra Options & Features Such As:  
-&nbsp;&nbsp;• Freeze / Lock Outfit.  
-&nbsp;&nbsp;• Edit & Save Wrist Props.  
-&nbsp;&nbsp;• Edit & Save Outfit Related Stats.  
-&nbsp;&nbsp;• Edit & Apply In Game Wardrobe Slots.  
-&nbsp;&nbsp;• Organize Outfits With Custom Folders.  
-&nbsp;&nbsp;• Navigate To The Outfit List Via [Hotkey](https://gta.2take1.menu/setup/keybinds/#feature-hotkeys).  
-&nbsp;&nbsp;• Prevent Helmet, Parachute & Scuba Tank Removal.  
-&nbsp;&nbsp;• Automatically Switch To Correct Model When Applying Outfits.  
-&nbsp;&nbsp;• Save Your Or Another Player's Outfit Including Headblend Data.
->_Outfit Saves Are Only Cross-Compatible With [2Take1's Saved Outfits](https://gta.2take1.menu/features/local/outfits/#custom-outfits) With Outfitter.lua v3.0.0 & Later._  
-_Any Outfits Saved With Outfitter.lua v2.4.1 Or Earlier Will Not Work With Newer Versions Of The Script._
-## Used [Trusted Modes](https://gta.2take1.menu/dev/scripts/#trusted-mode)
-&nbsp;&nbsp;• **Stats:** Used To Edit Stats When Editing & Applying Outfits. _(Recommended)_  
-&nbsp;&nbsp;• **Globals / Locals:** Used To Edit In Game Wardrobe & Prevent Parachute Removal. _(Recommended)_  
-&nbsp;&nbsp;• **Natives:** Required For The Script To Function. _(Required)_
-## How To Install & Use
-Go To The [Releases Page](https://github.com/Bassrex100/Outfitter.lua/releases) & Find Your Desired Version Then Download The "Outfitter.lua" File.
+## Key Features
+- Freeze outfit. [^1]
+- Organize outfits with folders.
+- Edit, save & apply outfit stats.
+- Edit, save & apply wrist props.
+- Edit, save & apply decoration overlays. [^2]
+- Edit, save & apply in game wardrobe slots.
+- Prevents helmet, parachute & scuba tank removal when editing & applying outfits.
+- Automatically switch to the correct model when applying outfits. [^3]
+- Open the `Outfitter.lua` submenu via [hotkey](https://gta.2take1.menu/setup/keybinds/#feature-hotkeys).
+- Save & apply another player's outfit.
+- Save & apply outfit loadouts.
+- Save & apply headblends.
 
-Drop The Lua File You Just Downloaded Into: _`\AppData\Roaming\PopstarDevs\2Take1Menu\scripts`_
+## [Trusted Modes](https://gta.2take1.menu/dev/scripts/#trusted-mode)
+- **Stats:** *Recommended*
+    - Edit outfit stats when editing & applying outfits.
+    - Edit decoration stats when editing decorations & applying outfits. [^2]
+- **Globals:** *Recommended*
+    - Prevents parachute removal when editing & applying outfits.
+    - Edit & save in game wardrobe slots.
+- **Natives:** *Required*
+    - The script wouldn't function without the use of natives.
+- **HTTP:** *Unused*
+- **Memory:** *Unused*
 
-Now With GTA Running & Menu Injected You Can Start The Script From "[Local > Scripts](https://gta.2take1.menu/dev/scripts/#management-and-execution)" & Use It At "[Local > Outfitter.lua](https://gta.2take1.menu/dev/scripts/#management-and-execution)".
+## Installation
+1. Download the [latest version](https://github.com/Bassrex100/Outfitter.lua/releases/latest/download/Outfitter.lua) of the script, or one of your choosing from the [releases page](https://github.com/Bassrex100/Outfitter.lua/releases).
+2. Put the downloaded `Outfitter.lua` file into the `%appdata%\PopstarDevs\2Take1Menu\scripts` directory.
+3. You can now [execute the script](https://gta.2take1.menu/dev/scripts/#running-scripts) at `Local → Scripts → Outfitter.lua → Run` from within 2Take1.
+
+[^1]: Updates to outfits applied via the script.
+[^2]: Tattoos & clothing decal overlays.
+[^3]: Only works if the outfit has the model saved.
