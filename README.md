@@ -1,5 +1,5 @@
 # Outfitter.lua
-This script aims to be a better alternative to the barebones 2Take1 [Outfitter](https://gta.2take1.menu/features/local/outfitter/) & [Outfit Manager](https://gta.2take1.menu/features/local/outfits/).
+This script aims to be a better alternative to the barebones 2Take1 [**Outfitter**](https://gta.2take1.menu/features/local/outfitter/) & [**Outfit Manager**](https://gta.2take1.menu/features/local/outfits/).
 
 ## Key Features
 - Freeze outfit. [^1]
@@ -10,7 +10,7 @@ This script aims to be a better alternative to the barebones 2Take1 [Outfitter](
 - Edit, save & apply in game wardrobe slots.
 - Prevents helmet, parachute & scuba tank removal when editing & applying outfits.
 - Automatically switch to the correct model when applying outfits. [^3]
-- Open the `Outfitter.lua` submenu via [hotkey](https://gta.2take1.menu/setup/keybinds/#feature-hotkeys).
+- Open the `Outfitter.lua` submenu via [**hotkey**](https://gta.2take1.menu/setup/keybinds/#feature-hotkeys).
 - Save & apply another player's outfit.
 - Save & apply outfit loadouts.
 - Save & apply headblends.
@@ -28,9 +28,9 @@ This script aims to be a better alternative to the barebones 2Take1 [Outfitter](
 - **Memory:** *Unused*
 
 ## Installation
-1. Download the [latest version](https://github.com/Bassrex100/Outfitter.lua/releases/latest/download/Outfitter.lua) of the script, or one of your choosing from the [releases page](https://github.com/Bassrex100/Outfitter.lua/releases).
+1. Download the [**latest version**](https://github.com/Bassrex100/Outfitter.lua/releases/latest/download/Outfitter.lua) of the script, or one of your choosing from the [**releases page**](https://github.com/Bassrex100/Outfitter.lua/releases).
 2. Put the downloaded `Outfitter.lua` file into the `%appdata%\PopstarDevs\2Take1Menu\scripts` directory.
-3. You can now [execute the script](https://gta.2take1.menu/dev/scripts/#running-scripts) at `Local → Scripts → Outfitter.lua → Run` from within 2Take1.
+3. You can now [**execute the script**](https://gta.2take1.menu/dev/scripts/#running-scripts) at `Local → Scripts → Outfitter.lua → Run` from within 2Take1.
 
 [^1]: Updates to outfits applied via the script.
 [^2]: Tattoos & clothing decal overlays.
