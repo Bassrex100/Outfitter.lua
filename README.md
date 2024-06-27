@@ -6,10 +6,10 @@ This script aims to be a better alternative to the barebones 2Take1 [**Outfitter
 - Organize outfits with folders.
 - Edit, save & apply outfit stats.
 - Edit, save & apply wrist props.
-- Edit, save & apply decoration overlays. [^2]
 - Edit, save & apply in game wardrobe slots.
+- Edit, save & apply decal & tattoo decoration overlays.
 - Prevents helmet, parachute & scuba tank removal when editing & applying outfits.
-- Automatically switch to the correct model when applying outfits. [^3]
+- Automatically switch to the correct model when applying outfits. [^2]
 - Open the `Outfitter.lua` submenu via [**hotkey**](https://gta.2take1.menu/setup/keybinds/#feature-hotkeys).
 - Save & apply another player's outfit.
 - Save & apply outfit loadouts.
@@ -18,9 +18,10 @@ This script aims to be a better alternative to the barebones 2Take1 [**Outfitter
 ## [Trusted Modes](https://gta.2take1.menu/dev/scripts/#trusted-mode)
 - **Stats:** *Recommended*
     - Edit outfit stats when editing & applying outfits.
-    - Edit decoration stats when editing decorations & applying outfits. [^2]
+    - Edit, save & apply decal & tattoo decoration overlays.
 - **Globals:** *Recommended*
     - Prevents parachute removal when editing & applying outfits.
+    - Edit, save & apply decal & tattoo decoration overlays.
     - Edit & save in game wardrobe slots.
 - **Natives:** *Required*
     - The script wouldn't function without the use of natives.
@@ -33,5 +34,4 @@ This script aims to be a better alternative to the barebones 2Take1 [**Outfitter
 3. You can now [**execute the script**](https://gta.2take1.menu/dev/scripts/#running-scripts) at `Local → Scripts → Outfitter.lua → Run` from within 2Take1.
 
 [^1]: Updates to outfits applied via the script.
-[^2]: Tattoos & clothing decal overlays.
-[^3]: Only works if the outfit has the model saved.
+[^2]: Only works if the outfit has the model saved.
